@@ -219,7 +219,7 @@ information. Otherwise, the AuxillaryFile may be left blank.
 
 [--hot_freq]    - optional, allows user to set the Hotpep Frequency value. Default = 2.6.
 
-[--hot_cpu]     - optional, allows user to set how many CPU cores Hotpep can use. Default = 3.
+[--hotpep_cpu]     - optional, allows user to set how many CPU cores Hotpep can use. Default = 3.
 
 [--tf_eval]     - optional, allows user to set tf.hmm HMMER E Value. Default = 1e-4.
 
